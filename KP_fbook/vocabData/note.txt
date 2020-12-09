@@ -1,0 +1,14 @@
+There are a couple of wordlist that were tried out
+
+1. gsl
+2. ngsl
+3. awl
+4. nawl
+5. acl
+
+
+I decided to throw out the gsl as it was too similar to the ngsl which was better since
+it's more recent (2013 vs 1950's)
+
+I thought that would be teh same between the awl and nawl but upon quick examination,
+the outputs of these lists are very different
